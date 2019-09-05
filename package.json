@@ -1,0 +1,25 @@
+{
+  "name": "mocha-count-reporter",
+  "version": "1.0.0",
+  "description": "Mocha reporter that check the number of assertions",
+  "main": "index.js",
+  "peerDependencies": {
+    "mocha": "^6.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolashefti/mocha-count-reporter.git"
+  },
+  "keywords": [
+    "mocha",
+    "reporter",
+    "count",
+    "assertion"
+  ],
+  "author": "Nicolas Hefti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolashefti/mocha-count-reporter/issues"
+  },
+  "homepage": "https://github.com/nicolashefti/mocha-count-reporter#readme"
+}
