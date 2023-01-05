@@ -1,10 +1,10 @@
 {
   "name": "mocha-count-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mocha reporter that check the number of assertions",
   "main": "index.js",
   "peerDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": ">= 6.2.0"
   },
   "repository": {
     "type": "git",
